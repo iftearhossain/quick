@@ -1,0 +1,76 @@
+/*comman start*/
+body{
+	font-family: ;
+	font-size: 16px;
+	font-weight: 400;
+	color: ;
+}
+.container {
+    width: 100%;
+    overflow: hidden;
+    border: 3px solid #e0b5b5;
+}
+.manu ul li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    margin-left: 30px;
+    color: #000000;
+}
+
+.manu{
+    float: right;
+    margin: 50px;
+}
+.ul{
+    display: inline;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+.manu ul li {
+    display: inline;
+    list-style: none;
+    float: right;
+}
+.logo {
+    float: left;
+    margin: 50px;
+}
+
+/*common end*/
+h1{
+	text-align: center;
+	font-size: 70px;
+	color: black;
+	height: 15px;
+}
+h2{
+	text-align: center;
+	font-size: 70px;
+	color: blue;
+	height: 25px;
+}
+p{
+	text-align: center;
+	height: 5px;
+}
+.pic{
+	text-align: center;
+	
+}
+h3{
+
+    background-color: #b7e9ea;
+    font-size: 50px;
+    text-align: center;
+    border: 5px solid #d89b9b;
+}
+.p1{
+	
+    text-align: center;
+    font-size: 25px;
+    
+}
